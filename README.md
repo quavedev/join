@@ -47,6 +47,7 @@ In most projects we need:
 - Good Javascript knowledge (at least the content of these 6 books [YDKJS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md))
 - Good Node.js knowledge
 - Good React.js knowledge (need to know hooks and context, for example)
+- Excelent communication in English (most of our clients are abroad)
 
 We like people that:
 
