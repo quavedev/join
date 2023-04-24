@@ -14,6 +14,16 @@ Check our website to learn more about us [quave.dev](https://quave.dev).
 
 See also our [GitHub](https://github.com/quavedev/)
 
+## Our Selection Process
+
+Our process is fast but with a few required steps:
+
+- Code challenge
+- Tech interview
+- Pair programming
+- Talk with at least one Partner
+- Proposal
+
 ## Work
 
 We are a remote company since day 0. 
