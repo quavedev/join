@@ -30,8 +30,9 @@ We usually use:
 - Javascript
 - Node.js
 - React
-- Meteor.js
+- TailwindCSS
 - MongoDB
+- Meteor.js
 
 We also have projects with:
 - Android (Java/Kotlin)
@@ -42,12 +43,16 @@ We also have projects with:
 
 ## About YOU
 
-In most projects we need:
+In most projects we need people with:
 
+- Excelent communication in English (most of our clients are abroad)
+- Excelent programming basic skills
+- Excelent Git skills
+- Excelent Unix skills
 - Good Javascript knowledge (at least the content of these 6 books [YDKJS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md))
 - Good Node.js knowledge
 - Good React.js knowledge (need to know hooks and context, for example)
-- Excelent communication in English (most of our clients are abroad)
+- Good TailwindCSS knowledge (Flexbox and basic stuff needs to be easy)
 
 We like people that:
 
