@@ -55,10 +55,10 @@ We also have projects with:
 
 In most projects we need people with:
 
-- Excelent communication in English (most of our clients are abroad)
-- Excelent programming basic skills
-- Excelent Git skills
-- Excelent Unix skills
+- Excellent communication in English (most of our clients are abroad)
+- Excellent programming basic skills
+- Excellent Git skills
+- Excellent Unix skills
 - Good Javascript knowledge (at least the content of these 6 books [YDKJS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md))
 - Good Node.js knowledge
 - Good React.js knowledge (need to know hooks and context, for example)
@@ -68,7 +68,7 @@ We like people that:
 
 - Studied in public Universities in Brazil
 - Have experience with Programming Contents
-- Algoritms and Data structure knowledge
+- Algorithms and Data structure knowledge
 
 ## Contract
 
