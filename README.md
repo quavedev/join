@@ -14,16 +14,6 @@ Check our website to learn more about us [quave.dev](https://quave.dev).
 
 See also our [GitHub](https://github.com/quavedev/)
 
-## Our Selection Process
-
-Our process is fast but with a few required steps:
-
-- Code challenge
-- Tech interview
-- Pair programming
-- Talk with at least one Partner
-- Proposal
-
 ## Work
 
 We are a remote company since day 0. 
@@ -34,46 +24,20 @@ We don't control hours, everybody is reliable and the focus is in the result.
 
 Usually we use USD (dollar) to define the monthly payments.
 
-## Our stack
-
-We usually use:
-- Javascript
-- Node.js
-- React
-- TailwindCSS
-- MongoDB
-- Meteor.js
-
-We also have projects with:
-- Android (Java/Kotlin)
-- iOS (Swift)
-- Flutter
-- Python
-- Kubernetes
-
-## About YOU
-
-In most projects we need people with:
-
-- Excellent communication in English (most of our clients are abroad)
-- Excellent programming basic skills
-- Excellent Git skills
-- Excellent Unix skills
-- Good Javascript knowledge (at least the content of these 6 books [YDKJS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md))
-- Good Node.js knowledge
-- Good React.js knowledge (need to know hooks and context, for example)
-- Good TailwindCSS knowledge (Flexbox and basic stuff needs to be easy)
+## You
 
 We like people that:
 
 - Studied in public Universities in Brazil
 - Have experience with Programming Contents
 - Algorithms and Data structure knowledge
+- Addicted to learn
+- Focused on results
 
 ## Contract
 
-For Brazilians: PJ
-For Foreigns: Custom
+- For Brazilians: PJ
+- For Foreigns: Contractor
 
 ## How to Apply
 
